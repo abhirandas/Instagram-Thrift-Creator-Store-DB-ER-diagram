@@ -102,6 +102,7 @@ The **many-to-many relationship** between Orders and Products is resolved using 
 ## 📷 Diagram
 
 The ER diagram is included in this repository as an image/PDF for easy reference.
+![instagram-thrift-creator-store](./diagram-export-4-6-2026-11_36_29-PM.png)
 
 ---
 
